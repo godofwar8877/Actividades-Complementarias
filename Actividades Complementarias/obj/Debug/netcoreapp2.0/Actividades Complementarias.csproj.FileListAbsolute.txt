@@ -1,0 +1,11 @@
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\bin\Debug\netcoreapp2.0\Actividades Complementarias.deps.json
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\bin\Debug\netcoreapp2.0\Actividades Complementarias.runtimeconfig.json
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\bin\Debug\netcoreapp2.0\Actividades Complementarias.runtimeconfig.dev.json
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\bin\Debug\netcoreapp2.0\Actividades Complementarias.dll
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\bin\Debug\netcoreapp2.0\Actividades Complementarias.pdb
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\obj\Debug\netcoreapp2.0\Actividades Complementarias.csprojResolveAssemblyReference.cache
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\obj\Debug\netcoreapp2.0\Actividades Complementarias.csproj.CoreCompileInputs.cache
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\obj\Debug\netcoreapp2.0\Actividades Complementarias.AssemblyInfoInputs.cache
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\obj\Debug\netcoreapp2.0\Actividades Complementarias.AssemblyInfo.cs
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\obj\Debug\netcoreapp2.0\Actividades Complementarias.dll
+C:\Users\Hernan the ghost\source\repos\Actividades Complementarias\Actividades Complementarias\obj\Debug\netcoreapp2.0\Actividades Complementarias.pdb
